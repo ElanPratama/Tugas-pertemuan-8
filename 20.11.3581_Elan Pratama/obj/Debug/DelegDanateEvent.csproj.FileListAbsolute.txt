@@ -1,0 +1,11 @@
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\bin\Debug\TugasDelegateEvent.exe.config
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\bin\Debug\TugasDelegateEvent.exe
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\bin\Debug\TugasDelegateEvent.pdb
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\obj\Debug\DelegDanateEvent.csproj.AssemblyReference.cache
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\obj\Debug\TugasDelegateEvent.Hasil.resources
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\obj\Debug\TugasDelegateEvent.Kalkulator.resources
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\obj\Debug\TugasDelegateEvent.Properties.Resources.resources
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\obj\Debug\DelegDanateEvent.csproj.GenerateResource.cache
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\obj\Debug\DelegDanateEvent.csproj.CoreCompileInputs.cache
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\obj\Debug\TugasDelegateEvent.exe
+D:\20.11.3581_Elan Pratama\20.11.3581_Elan Pratama\obj\Debug\TugasDelegateEvent.pdb
